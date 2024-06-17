@@ -86,4 +86,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sujay-Patel-GitHub/Sujay-Patel-GitHub/output/snake.svg" alt="Snake animation" />
+
+https://github.com/Sujay-Patel-GitHub/Sujay-Patel-GitHub/assets/173051781/7b794f17-55c5-4b8a-89a9-b2682001cdc2
+
+
