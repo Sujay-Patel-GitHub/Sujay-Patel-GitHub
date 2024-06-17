@@ -1,61 +1,89 @@
+<div align="center">
+  <img height="250" src="https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=2000"  />
+</div>
 
+###
 
+<h1 align="center">Hi 👋! My name is Sujay Patel</h1>
 
-<p align="center">
-<img alt="Robotic Arm" width="500" src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif">
-</p>
+###
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujaypatel1512&label=Profile%20views&color=0e75b6&style=flat" alt="sujaypatel1512" /> </p>
-**I'm a Night 🦉** 
+<h3 align="left">👩‍💻  About Me</h3>
 
-```text
-🌞 Morning                284 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-🌆 Daytime                2357 commits        ████████░░░░░░░░░░░░░░░░░   33.98 % 
-🌃 Evening                3229 commits        ████████████░░░░░░░░░░░░░   46.55 % 
-🌙 Night                  1066 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-```
+###
 
+<p align="left">Hi 👋, I'm Sujay Patel<br>A passionate Robotic Engineer from India<br>🔭 I’m currently working on Robotics<br>⚡My Working Projects Swarm Robots<br>⚡My Working Project Dream Military Drones<br>🌱 I’m currently learning Micro Controllers and OpenCV Algorithms<br>⚡ Fun fact Give your best even it's not appreciated<br><br>Working on RoboFest 4.0 and a RoboFest 3.0 Winner</p>
 
-📊 **This Week I Spent My Time On** 
+###
 
-```text
-🕑︎ Time Zone: Asia/Dubai
+<h3 align="left">🛠 Language and tools</h3>
 
-💬 Programming Languages: 
-Python                   3 hrs 30 mins       ██████████████░░░░░░░░░░░   57.62 % 
-C++                      1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-C                        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+###
 
-🐱‍💻 Projects: 
-Robofest 4.0             3 hrs 56 mins       ████████████████░░░░░░░░░   64.56 % 
-Swarm Robot              1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-Cleaning Robot           15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-omakub                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-swarm_mocks              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujay-Patel-GitHub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sujay-Patel-GitHub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
 
- Last Updated on 15/06/2024 12:35:00 UTC
-<!--END_SECTION:waka-->
+<h3 align="left">🔥   My Stats :</h3>
 
-<!--START_SECTION:waka-simple-->
+###
 
-```text
-From: 16 July 2020 - To: 14 June 2024
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sujay-Patel-GitHub&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-Total Time: 1,680 hrs 34 mins
+###
 
-C++                591 hrs 13 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.18 %
-Go                 313 hrs 18 mins ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.64 %
-Python             240 hrs 52 mins ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.33 %
-C                  134 hrs 20 mins ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.99 %
-Bash               84 hrs 19 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.02 %
-YAML               77 hrs 10 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.59 %
-```
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+</div>
 
-<!--END_SECTION:waka-simple-->
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Sujay-Patel-GitHub.Sujay-Patel-GitHub&left_text=Visitors"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Sujay-Patel-GitHub/Sujay-Patel-GitHub/output/snake.svg" alt="Snake animation" />
