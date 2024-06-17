@@ -80,4 +80,4 @@ Fun fact: I firmly believe in giving my best, even when it's not immediately app
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sujay-Patel-GitHub/Sujay-Patel-GitHub/output/snake.svg" alt="Snake animation" />
+https://github.com/Sujay-Patel-GitHub/Sujay-Patel-GitHub/assets/173051781/a2fde8f6-5f8d-42d6-b263-f73540b850d7
