@@ -38,19 +38,19 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/channel/UC123456" target="_blank">
+  <a href="https://www.youtube.com/results?search_query=Sujay+Patel" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://www.facebook.com/yourfacebookprofile" target="_blank">
+  <a href="https://www.facebook.com/search/top?q=Sujay%20Patel" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/sujay1512/?hl=en" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/sujay-patel-38a460283/" target="_blank">
+  <a href="https://www.linkedin.com/search/results/all/?keywords=Sujay%20Patel" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://t.me/yourtelegramprofile" target="_blank">
+  <a href="https://t.me/SujayPatel" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
   <a href="https://wa.me/yourwhatsappprofile" target="_blank">
@@ -101,4 +101,3 @@
 <img src="https://raw.githubusercontent.com/Sujay-Patel-GitHub/Sujay-Patel-GitHub/output/snake.svg" alt="Snake animation" />
 
 ###
-
