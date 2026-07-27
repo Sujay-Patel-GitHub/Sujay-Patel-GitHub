@@ -57,8 +57,10 @@ Status    : ONLINE 🟢
 
 ## 🏆 `> MILESTONES UNLOCKED`
 
-* **Rath Yatra 2026 Fleet Telemetry (Chief Technology Lead)**
-  * Deployed **28 custom IoT/GPS/Motion-tracking hardware devices** to monitor a 101-truck fleet in real-time, monitored by the Chief Minister of Gujarat.
+* **Rath Yatra Fleet Telemetry & Live Tracking Software (Lead Developer & Systems Architect)**
+  * Designed and deployed the core software backend, real-time camera streaming interface, and live GPS tracking dashboard utilized by the **Ahmedabad City Police Department Command Center** and monitored by the Hon'ble Chief Minister of Gujarat.
+  * Deployed **28 custom IoT/GPS/Motion-tracking hardware units** to monitor a 101-truck fleet in real-time.
+  * Developed in collaboration with a colleague who integrated the automated SMS alert system.
 * **Swadeshi Parakh Platform (Chief Technology Lead)**
   * Spearheaded a 5-day sprint to launch the verification platform live. Received an **official letter of appreciation** from Shri Bhupendra Patel (Hon'ble CM of Gujarat).
 * **Autonomous AMRs (Robofest Gujarat 5.0)**
