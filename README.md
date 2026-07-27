@@ -107,13 +107,13 @@ Mission   : Building the Future, One Bot at a Time
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sujay-Patel-GitHub&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ccff&text_color=ffffff&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
+<img src="./profile-assets/github-stats.svg" height="165" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sujay-Patel-GitHub&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=6" height="165" alt="Top Languages"/>
+<img src="./profile-assets/top-langs.svg" height="165" alt="Top Languages"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Sujay-Patel-GitHub&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ccff&currStreakLabel=00ff88&sideNums=ffffff&currStreakNum=00ff88" height="165" alt="Streak Stats"/>
+<img src="./profile-assets/streak-stats.svg" height="165" alt="Streak Stats"/>
 
 </div>
 
