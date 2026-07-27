@@ -124,7 +124,7 @@ Mission   : Building the Future, One Bot at a Time
 
 <div align="center">
 
-<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Sujay-Patel-GitHub&theme=matrix&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Sujay-Patel-GitHub&theme=gitdimmed&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
 
 </div>
 
