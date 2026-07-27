@@ -151,10 +151,11 @@ Status    : ONLINE 🟢
 
 | Project | Description | Status |
 |:---|:---|:---:|
-| 🐝 **Swarm Robots** | Multi-agent autonomous coordination system | 🟢 Active |
-| 🚁 **Dream Military Drones** | Autonomous aerial surveillance & defense | 🟡 In Progress |
-| 🏆 **RoboFest 4.0** | Competitive robotics challenge | 🔵 Competing |
-| 👁️ **OpenCV Algorithms** | Computer vision & real-time detection | 🟢 Learning |
+| 📡 **Fleet Telemetry System** | Real-time IoT monitoring, GPS tracking, and software backend | 🟢 Production |
+| 🧠 **Embodied AI Navigation** | Closed-loop PID control, kinematics, and motion planning for physical robots | 🟡 In Progress |
+| 👁️ **OpenCV Perception** | Computer vision, object recognition, and real-time detection algorithms | 🔵 Researching |
+| 🚀 **Hardware Startups** | Prototyping commercial electronics, custom CAD design, and PCB integration | 🟢 Prototyping |
+
 
 </div>
 
