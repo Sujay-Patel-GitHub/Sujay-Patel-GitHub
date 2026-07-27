@@ -83,24 +83,37 @@ Status    : ONLINE 🟢
 ![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=239120)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-### Robotics & Vision
+### Robotics & Embedded Systems
 ![ROS](https://img.shields.io/badge/ROS-0d1117?style=flat-square&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
-![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=00979D)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0d1117?style=flat-square&logo=raspberrypi&logoColor=A22846)
+![Arduino Mega](https://img.shields.io/badge/Arduino_Mega-0d1117?style=flat-square&logo=arduino&logoColor=00979D)
+![Raspberry Pi 5](https://img.shields.io/badge/Raspberry_Pi_5-0d1117?style=flat-square&logo=raspberrypi&logoColor=A22846)
+![RPi Pico 2 W](https://img.shields.io/badge/RPi_Pico_2_W-0d1117?style=flat-square&logo=raspberrypi&logoColor=FF007F)
+![PLC Ladder Logic](https://img.shields.io/badge/PLC_Ladder_Logic-0d1117?style=flat-square&logo=abb&logoColor=00C4FF)
+![PID Feedback Loops](https://img.shields.io/badge/PID_Feedback_Loops-0d1117?style=flat-square&logo=microchip&logoColor=00FF88)
 
-### Hardware & Design
-![PCB Design](https://img.shields.io/badge/PCB_Design-0d1117?style=flat-square&logo=altiumdesigner&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-0d1117?style=flat-square&logo=autodesk&logoColor=red)
+### Sensors & Circuits
+![IoT & GPS Telemetry](https://img.shields.io/badge/IoT_&_GPS_Telemetry-0d1117?style=flat-square&logo=adafruit&logoColor=00FF88)
+![MPU6050 6-DOF IMU](https://img.shields.io/badge/MPU6050_6--DOF_IMU-0d1117?style=flat-square&logo=stmicroelectronics&logoColor=FFCC00)
+![ToF Sensors I2C](https://img.shields.io/badge/ToF_Sensors_I2C-0d1117?style=flat-square&logo=stmicroelectronics&logoColor=032347)
+![DRV8833 Motor Drivers](https://img.shields.io/badge/DRV8833_Motor_Drivers-0d1117?style=flat-square&logo=microchip&logoColor=FF3E00)
+
+### Hardware Design & Prototyping
+![Altium Designer](https://img.shields.io/badge/Altium_Designer_(PCB)-0d1117?style=flat-square&logo=altiumdesigner&logoColor=white)
+![Autodesk Fusion 360](https://img.shields.io/badge/Fusion_360_(CAD)-0d1117?style=flat-square&logo=autodesk&logoColor=red)
 ![3D Printing](https://img.shields.io/badge/3D_Printing-0d1117?style=flat-square&logo=ultimaker&logoColor=00FF88)
-![Blender](https://img.shields.io/badge/Blender-0d1117?style=flat-square&logo=blender&logoColor=E87D0D)
+![Blender 3D](https://img.shields.io/badge/Blender_3D_(Modeling)-0d1117?style=flat-square&logo=blender&logoColor=E87D0D)
 
-### Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+### Tools & Environments
+![Linux Ubuntu](https://img.shields.io/badge/Linux_Ubuntu-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Git & GitHub](https://img.shields.io/badge/Git_&_GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 ![PyCharm](https://img.shields.io/badge/PyCharm-0d1117?style=flat-square&logo=pycharm&logoColor=21D789)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
+![Jupyter Notebooks](https://img.shields.io/badge/Jupyter_Notebooks-0d1117?style=flat-square&logo=jupyter&logoColor=F37626)
 
 </div>
 
