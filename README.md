@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff88,100:00ccff&height=200&section=header&text=SUJAY%20PATEL&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Robotic%20Engineer%20%7C%20Innovator%20%7C%20Builder&descAlignY=60&descSize=18&animation=fadeIn" />
+<img width="100%" src="./profile-assets/header.svg" />
 
 </div>
 
 <!-- Typing animation -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=🤖+Robotic+Engineer+from+India;🚁+Building+Military+Drone+Systems;🐝+Swarm+Robotics+Enthusiast;🏆+RoboFest+3.0+Winner;📡+Microcontrollers+%2B+OpenCV+Explorer)](https://git.io/typing-svg)
+![Typing SVG](./profile-assets/typing.svg)
 
 </div>
 
@@ -124,7 +124,7 @@ Mission   : Building the Future, One Bot at a Time
 
 <div align="center">
 
-<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Sujay-Patel-GitHub&theme=juicyfresh&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+<img src="./profile-assets/trophies.svg" alt="Trophies"/>
 
 </div>
 
@@ -180,6 +180,6 @@ Mission   : Building the Future, One Bot at a Time
 <!-- Footer Wave -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,50:00ff88,100:0d0d0d&height=120&section=footer&text=Keep%20Building%20%F0%9F%A4%96&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+<img width="100%" src="./profile-assets/footer.svg"/>
 
 </div>
