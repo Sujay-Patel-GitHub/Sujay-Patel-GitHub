@@ -77,27 +77,28 @@ Mission   : Building the Future, One Bot at a Time
 <div align="center">
 
 ### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=00599C)
+![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=239120)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 
 ### Robotics & Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-0d1117?style=flat-square&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
+![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=00979D)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0d1117?style=flat-square&logo=raspberrypi&logoColor=A22846)
 
-### Web & Design
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+### Hardware & Design
+![PCB Design](https://img.shields.io/badge/PCB_Design-0d1117?style=flat-square&logo=altiumdesigner&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-0d1117?style=flat-square&logo=autodesk&logoColor=red)
+![3D Printing](https://img.shields.io/badge/3D_Printing-0d1117?style=flat-square&logo=ultimaker&logoColor=00FF88)
+![Blender](https://img.shields.io/badge/Blender-0d1117?style=flat-square&logo=blender&logoColor=E87D0D)
 
 ### Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![PyCharm](https://img.shields.io/badge/PyCharm-0d1117?style=flat-square&logo=pycharm&logoColor=21D789)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
