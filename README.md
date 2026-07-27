@@ -40,8 +40,7 @@ Mission   : Building the Future, One Bot at a Time
 
 <br>
 
-<!-- Robot GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2bWYwNnRhNTF6d2s5ajg4N3VuNm9ndHhpNGZxZGM2bHZzMHZ3byZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWc/3oKIPnAiaMCws8nOsE/giphy.gif" width="280" alt="Robot GIF"/>
+<img src="./profile-assets/robot.jpeg" width="280" alt="RoboFest 4.0 Maze Solving Car"/>
 
 <br><br>
 
@@ -157,8 +156,6 @@ Mission   : Building the Future, One Bot at a Time
 
 [![YouTube](https://img.shields.io/badge/YouTube-@roboticengineerwala-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@roboticengineerwala)
 
-[![Telegram](https://img.shields.io/badge/Telegram-@SujayPatel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SujayPatel)
-
 </div>
 
 ---
@@ -167,11 +164,11 @@ Mission   : Building the Future, One Bot at a Time
 
 <div align="center">
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Sujay-Patel-GitHub.Sujay-Patel-GitHub&left_text=Profile%20Visitors&left_color=1a1a2e&right_color=00ff88)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Sujay-Patel-GitHub.Sujay-Patel-GitHub&left_text=Profile%20Visitors&left_color=0d1117&right_color=00ff88)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/Sujay-Patel-GitHub?label=Followers&style=flat-square&color=00ccff&labelColor=1a1a2e)
+![Followers](https://img.shields.io/github/followers/Sujay-Patel-GitHub?label=Followers&style=flat-square&color=00ccff&labelColor=0d1117)
 &nbsp;
-![Stars](https://img.shields.io/github/stars/Sujay-Patel-GitHub?label=Stars&style=flat-square&color=00ff88&labelColor=1a1a2e)
+![Stars](https://img.shields.io/github/stars/Sujay-Patel-GitHub?label=Stars&style=flat-square&color=00ff88&labelColor=0d1117)
 
 </div>
 
