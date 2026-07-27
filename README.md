@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="./profile-assets/header.svg" />
+<!-- Robotics Projects Banner Collage -->
+<img width="100%" src="./profile-assets/banner_collage.png" alt="Robotics Projects Banner Collage"/>
 
 </div>
 
