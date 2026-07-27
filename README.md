@@ -22,18 +22,19 @@
 ## 🤖 `> BOOT SEQUENCE INITIATED`
 
 ```yaml
-Engineer  : Sujay Patel
+Engineer  : Patel Sujay Hemil
 Origin    : India 🇮🇳
-Domain    : Robotics & Embedded Systems
-Status    : ONLINE ✅
-Mission   : Building the Future, One Bot at a Time
+Education : Instrumentation & Control (B.Tech)
+Domain    : Robotics Systems & Embedded Hardware
+Focus     : Embodied AI & Fleet Telemetry
+Status    : ONLINE 🟢
 ```
 
 ### 🔭 Current Missions
-- ⚙️ **RoboFest 4.0** — Active Development
-- 🐝 **Swarm Robotics** — Multi-agent coordination systems
-- 🚁 **Dream Military Drones** — Autonomous aerial defense
-- 📷 **OpenCV Algorithms** — Advanced computer vision
+- 📡 **Fleet Telemetry** — Real-time IoT monitoring & motion tracking systems
+- 🧠 **Embodied AI** — Autonomous navigation and control for physical robots
+- 👁️ **Computer Vision** — Advanced OpenCV algorithms & real-time detection
+- 🚀 **Hardware Startups** — Prototyping and developing commercial electronics
 
 </td>
 <td width="45%" align="center" valign="top">
@@ -44,8 +45,8 @@ Mission   : Building the Future, One Bot at a Time
 
 <br><br>
 
-> *"Give your best,*  
-> *even when it's not appreciated."*  
+> *"Building the hardware that moves,*  
+> *and the code that thinks."*  
 > — **Sujay Patel**
 
 </td>
