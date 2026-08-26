@@ -9,13 +9,13 @@
     
     <!-- Total Contributions -->
     <g transform="translate(75, 0)">
-        <text x="0" y="80" class="metric-value">1640</text>
+        <text x="0" y="80" class="metric-value">1641</text>
         <text x="0" y="110" class="metric-title">Total Contributions</text>
     </g>
     
     <!-- Current Streak -->
     <g transform="translate(225, 0)">
-        <text x="0" y="80" class="metric-value" fill="#00ff88">0 Days</text>
+        <text x="0" y="80" class="metric-value" fill="#00ff88">1 Days</text>
         <text x="0" y="110" class="metric-title">Current Streak</text>
     </g>
     
