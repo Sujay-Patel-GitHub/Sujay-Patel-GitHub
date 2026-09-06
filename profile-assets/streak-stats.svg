@@ -9,7 +9,7 @@
     
     <!-- Total Contributions -->
     <g transform="translate(75, 0)">
-        <text x="0" y="80" class="metric-value">1635</text>
+        <text x="0" y="80" class="metric-value">1254</text>
         <text x="0" y="110" class="metric-title">Total Contributions</text>
     </g>
     
@@ -21,7 +21,7 @@
     
     <!-- Longest Streak -->
     <g transform="translate(375, 0)">
-        <text x="0" y="80" class="metric-value">8 Days</text>
+        <text x="0" y="80" class="metric-value">7 Days</text>
         <text x="0" y="110" class="metric-title">Longest Streak</text>
     </g>
 </svg>
